@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Dhanush-git/static/css/main.5e6d49ff.chunk.css",
+    "main.js": "/Dhanush-git/static/js/main.fab2e1ac.chunk.js",
+    "main.js.map": "/Dhanush-git/static/js/main.fab2e1ac.chunk.js.map",
+    "runtime-main.js": "/Dhanush-git/static/js/runtime-main.baa69579.js",
+    "runtime-main.js.map": "/Dhanush-git/static/js/runtime-main.baa69579.js.map",
+    "static/js/2.d86fed47.chunk.js": "/Dhanush-git/static/js/2.d86fed47.chunk.js",
+    "static/js/2.d86fed47.chunk.js.map": "/Dhanush-git/static/js/2.d86fed47.chunk.js.map",
+    "static/js/3.af163da4.chunk.js": "/Dhanush-git/static/js/3.af163da4.chunk.js",
+    "static/js/3.af163da4.chunk.js.map": "/Dhanush-git/static/js/3.af163da4.chunk.js.map",
+    "index.html": "/Dhanush-git/index.html",
+    "static/css/main.5e6d49ff.chunk.css.map": "/Dhanush-git/static/css/main.5e6d49ff.chunk.css.map",
+    "static/js/2.d86fed47.chunk.js.LICENSE.txt": "/Dhanush-git/static/js/2.d86fed47.chunk.js.LICENSE.txt",
+    "static/media/Beel.3be95e84.png": "/Dhanush-git/static/media/Beel.3be95e84.png",
+    "static/media/Cloves.6734d260.png": "/Dhanush-git/static/media/Cloves.6734d260.png",
+    "static/media/beelweb.f0760b99.jpg": "/Dhanush-git/static/media/beelweb.f0760b99.jpg",
+    "static/media/Banner.css": "/Dhanush-git/static/media/me.f8742351.png",
+    "static/media/me2.07be132d.png": "/Dhanush-git/static/media/me2.07be132d.png",
+    "static/media/siri.86d21f77.jpg": "/Dhanush-git/static/media/siri.86d21f77.jpg",
+    "static/media/sirivc.7a791f63.jpg": "/Dhanush-git/static/media/sirivc.7a791f63.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baa69579.js",
+    "static/js/2.d86fed47.chunk.js",
+    "static/css/main.5e6d49ff.chunk.css",
+    "static/js/main.fab2e1ac.chunk.js"
+  ]
+}
