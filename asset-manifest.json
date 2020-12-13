@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Dhanush-git/static/css/main.5e6d49ff.chunk.css",
-    "main.js": "/Dhanush-git/static/js/main.fab2e1ac.chunk.js",
-    "main.js.map": "/Dhanush-git/static/js/main.fab2e1ac.chunk.js.map",
+    "main.js": "/Dhanush-git/static/js/main.c68918ae.chunk.js",
+    "main.js.map": "/Dhanush-git/static/js/main.c68918ae.chunk.js.map",
     "runtime-main.js": "/Dhanush-git/static/js/runtime-main.baa69579.js",
     "runtime-main.js.map": "/Dhanush-git/static/js/runtime-main.baa69579.js.map",
     "static/js/2.d86fed47.chunk.js": "/Dhanush-git/static/js/2.d86fed47.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.baa69579.js",
     "static/js/2.d86fed47.chunk.js",
     "static/css/main.5e6d49ff.chunk.css",
-    "static/js/main.fab2e1ac.chunk.js"
+    "static/js/main.c68918ae.chunk.js"
   ]
 }
