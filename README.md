@@ -1,4 +1,6 @@
-![me_kannada](./asset/meee.jpg)
+![me_kannada](./asset/meee.jpg#gh-light-mode-only)
+![me_kannada](./asset/meee_white.png#gh-dark-mode-only)
+
 
 welcome to my 🐙 Github page
 😀 My name is 🌊 Dhanush Suvarna I am a B.Tech 💻 Computer Science student and I am currently 🧰 working on a lot of personal 📁 projects few codes of which i have posted here on my 🐙 github account.
