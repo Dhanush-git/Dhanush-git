@@ -1,5 +1,4 @@
-![me_kannada](./asset/meee.jpg#gh-light-mode-only)
-![me_kannada](./asset/meee_white.png#gh-dark-mode-only)
+![me](https://github-banner-generator.vercel.app/api?title=Dhanush-Git)
 
 
 welcome to my 🐙 Github page
