@@ -52,6 +52,14 @@ a{
     border: none;
 }
 
+.banner > video {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+    border: none;
+}
+
 .main > h2 {
     margin-top: 40px;
     margin-bottom: 10px;
