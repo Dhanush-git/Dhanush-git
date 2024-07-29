@@ -1,4 +1,4 @@
-Hi there! My name is Dhanush Suvarna and I'm a Shopify frontend developer at Marmeto. I'm passionate about coding, so much so that it's become my career path.
+Hi there! My name is Dhanush Suvarna and I'm a Shopify frontend developer. I'm passionate about coding, so much so that it's become my career path.
 
 ![Dhanush Suvarna's Github](https://github-badges.vercel.app/api/github/dhanush)
 
