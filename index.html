@@ -1,0 +1,96 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./assets/css/theme.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide-extension-auto-scroll@0.5.3/dist/js/splide-extension-auto-scroll.min.js"></script>
+  <title>Dhanush Suvarna</title>
+</head>
+<body class="bg-black">
+  <div class="p-5 text-white">
+    <div>
+      <div>
+        <div><h1 class="text-lg">Dhanush Suvarna</h1></div>
+        <nav>
+          <ul class="flex gap-1 text-sm">
+            <li><a href="#">LinkedIn</a></li>
+            <li><a href="#">GitHub</a></li>
+            <li><a href="#">Resume</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+    <div class="grid grid-cols-12 text-sm gap-4 mt-4">
+      <div class="col-span-12 md:col-span-5">
+        <h2 class="uppercase text-gray-300">About Me</h2>
+        <p class="mt-4">
+          I'm Dhanush, a Lead Shopify Developer with a strong background in creating high-quality ecommerce experiences. With over two years of experience working with brands like Swiggy, Baggit, and Maharishi Ayurveda, I specialize in front-end Shopify development, theme customization, and app integrations.
+          Currently at Tenovia, I collaborate closely with teams to deliver solutions that meet business goals while training developers on Git and GitHub processes. Focused, detail-oriented, and always learning, I aim to build exceptional online stores that blend functionality with a seamless user experience
+        </p>
+      </div>
+      <div class="col-span-12 md:col-span-6 md:col-start-7">
+        <h2 class="uppercase text-gray-300">Experience</h2>
+        <div class="mt-4 grid grid-cols-6 gap-y-4">
+          <!-- tenovia -->
+          <div class="col-start-1 col-span-6 md:col-span-2">
+            <h3 class="font-semibold">Lead Shopify Developer</h3>
+            <p>Tenovia</p>
+            <p class="italic text-xs">June 2024 - Present</p>
+          </div>
+          <div class="col-span-6 col-start-1 md:col-span-4 md:col-start-3">
+            <ul>
+              <li>Developed custom Shopify themes and apps for clients like Swiggy, Baggit, and Maharishi Ayurveda</li>
+              <li>Collaborated with cross-functional teams to deliver solutions that met business goals</li>
+              <li>Trained developers on Git and GitHub processes</li>
+            </ul>
+          </div>
+          <!-- marmeto -->
+          <div class="col-start-1 col-span-6 md:col-span-2">
+            <h3 class="font-semibold">Frontend Developer</h3>
+            <p>Marmeto</p>
+            <p class="italic text-xs">Aug 2022 - May 2024</p>
+          </div>
+          <div class="col-span-6 col-start-1 md:col-span-4 md:col-start-3">
+            <ul>
+              <li>Developed custom Shopify themes and apps for clients like Swiggy, Baggit, and Maharishi Ayurveda</li>
+              <li>Collaborated with cross-functional teams to deliver solutions that met business goals</li>
+              <li>Trained developers on Git and GitHub processes</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-span-12 mt-4">
+        <h2 class="uppercase text-gray-300">Brand Portfolio</h2>
+        <section class="splide mt-4" aria-label="Splide Basic HTML Example">
+          <div class="splide__track image_mask">
+            <ul class="splide__list">
+              <li class="splide__slide">Slide 01</li>
+              <li class="splide__slide">Slide 02</li>
+              <li class="splide__slide">Slide 03</li>
+            </ul>
+          </div>
+        </section>
+      </div>
+    </div>
+  </div>
+  <script>
+    document.addEventListener( 'DOMContentLoaded', function() {
+      const splide = new Splide( '.splide', {
+        type   : 'loop',
+        drag   : 'free',
+        focus  : 'center',
+        arrows : false,
+        perPage: 6,
+        autoScroll: {
+          speed: 1,
+        },
+      } );
+
+      splide.mount(window.splide.Extensions);
+    } );
+  </script>
+</body>
+</html>
